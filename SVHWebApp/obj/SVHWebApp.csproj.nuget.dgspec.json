@@ -155,10 +155,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "DocuSign.eSign.dll": {
-              "target": "Package",
-              "version": "[6.8.0, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

@@ -38,7 +38,7 @@ namespace SVHDB
 
 
             modelBuilder.Entity<Document>()
-                .HasKey(d=>new { d.Id,d.Pid,d.Idmd5,d.IdSha256 });
+                .HasKey(d=>new { d.Id,d.Pid});
 
             modelBuilder.Entity<Status>()
                 .HasKey(s => new { s.Id });
@@ -51,7 +51,7 @@ namespace SVHDB
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studotus;Database=SVHDocs");
+            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studadmin;Database=SVHDocs");
             base.OnConfiguring(optionsBuilder);
         }
     }

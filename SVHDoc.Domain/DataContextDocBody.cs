@@ -20,18 +20,16 @@ namespace SVHDB
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<DocBody>()
-                .HasKey(db => new { db.Id, db.Idmd5, db.IdSha256 });
+            modelBuilder.Entity<DocBody>().HasKey(x => new {x.Id});
 
             base.OnModelCreating(modelBuilder);
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studotus;Database=SVHDocBody");
+            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studadmin;Database=SVHDocBody");
             base.OnConfiguring(optionsBuilder);
-            {
-            }
+     
         }
     }
 }

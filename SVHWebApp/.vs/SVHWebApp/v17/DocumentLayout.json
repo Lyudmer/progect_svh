@@ -3,54 +3,56 @@
   "WorkspaceRootPath": "D:\\work\\progect_svh\\SVHWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\datacontextdocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\datacontextusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\datacontextdocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\entities\\docbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\datacontextdocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCB2E72-459D-4883-935D-CE599C77107C}|..\\SVHDoc.Domain\\SVHDoc.Domain.csproj|d:\\work\\progect_svh\\svhdoc.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\loggin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\loggin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\controllers\\logregcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:controllers\\logregcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:controllers\\loggincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\logreg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\logreg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\loggin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\loggin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|d:\\work\\progect_svh\\svhwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C6A638-5068-4CD4-B00B-65F1E569EF7D}|SVHWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -81,176 +83,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Document.cs",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Document.cs",
-              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\Entities\\Document.cs",
-              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Document.cs",
-              "RelativeToolTip": "..\\SVHDoc.Domain\\Entities\\Document.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAAAuAAAA",
+              "Title": "DocBody.cs",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\DocBody.cs",
+              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\Entities\\DocBody.cs",
+              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\DocBody.cs",
+              "RelativeToolTip": "..\\SVHDoc.Domain\\Entities\\DocBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:14:51.139Z",
+              "WhenOpened": "2024-06-27T16:33:12.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContextDocBody.cs",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextDocBody.cs",
+              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\DataContextDocBody.cs",
+              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextDocBody.cs",
+              "RelativeToolTip": "..\\SVHDoc.Domain\\DataContextDocBody.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:24:23.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DataContextUsers.cs",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextUsers.cs",
+              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\DataContextUsers.cs",
+              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextUsers.cs",
+              "RelativeToolTip": "..\\SVHDoc.Domain\\DataContextUsers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:23:49.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataContextDocs.cs",
               "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
               "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\DataContextDocs.cs",
               "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
               "RelativeToolTip": "..\\SVHDoc.Domain\\DataContextDocs.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAsAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:13:59.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Status.cs",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Status.cs",
-              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\Entities\\Status.cs",
-              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Status.cs",
-              "RelativeToolTip": "..\\SVHDoc.Domain\\Entities\\Status.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:12:52.202Z",
+              "WhenOpened": "2024-06-24T16:59:07.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "..\\SVHDoc.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:11:50.426Z",
+              "WhenOpened": "2024-06-24T16:39:09.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Package.cs",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
-              "RelativeDocumentMoniker": "..\\SVHDoc.Domain\\Entities\\Package.cs",
-              "ToolTip": "D:\\work\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
-              "RelativeToolTip": "..\\SVHDoc.Domain\\Entities\\Package.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T11:11:43.712Z",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T16:43:54.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Logreg\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Logreg\\Index.cshtml",
+              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Logreg\\Index.cshtml",
+              "RelativeToolTip": "Views\\Logreg\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:29:18.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogregController.cs",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\LogregController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogregController.cs",
+              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\LogregController.cs",
+              "RelativeToolTip": "Controllers\\LogregController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:26:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Loggin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Loggin\\Index.cshtml",
+              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Loggin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Loggin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:04:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LogginController.cs",
               "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\LogginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LogginController.cs",
               "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\LogginController.cs",
               "RelativeToolTip": "Controllers\\LogginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T17:57:08.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:10:41.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Loggin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Loggin\\Index.cshtml",
-              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Loggin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Loggin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:04:11.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAADwvy8AAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T16:13:29.785Z"
+              "WhenOpened": "2024-06-23T16:13:29.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\User.cs",
-              "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T16:04:27.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAACYAAAAAAAAAAAAcwGMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-23T16:30:04.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Package.cs",
-              "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
-              "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:04:45.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DataContextDocs.cs",
-              "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
-              "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA0wCQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:00:22.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\work\\progect_svh\\SVHWebApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:59:44.885Z"
+              "WhenOpened": "2024-06-23T15:59:44.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -262,11 +255,12 @@
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T15:57:56.545Z"
+              "WhenOpened": "2024-06-23T15:57:56.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\work\\progect_svh\\SVHWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -274,7 +268,26 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T14:59:34.031Z"
+              "WhenOpened": "2024-06-23T14:59:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContextDocs.cs",
+              "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
+              "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextDocs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:00:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Package.cs",
+              "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
+              "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Package.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:45.531Z"
             },
             {
               "$type": "Document",
@@ -282,7 +295,6 @@
               "Title": "DataContextUsers.cs",
               "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextUsers.cs",
               "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\DataContextUsers.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T14:41:59.754Z"
             },
@@ -292,7 +304,6 @@
               "Title": "DocBody.cs",
               "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\DocBody.cs",
               "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\DocBody.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T16:20:52.194Z"
             },
@@ -302,7 +313,6 @@
               "Title": "Document.cs",
               "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Document.cs",
               "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Document.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAEwCoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T16:04:07.731Z"
             },
@@ -312,7 +322,6 @@
               "Title": "StatusGraph.cs",
               "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\StatusGraph.cs",
               "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\StatusGraph.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T16:08:55.802Z"
             },
@@ -322,7 +331,6 @@
               "Title": "Status.cs",
               "DocumentMoniker": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Status.cs",
               "ToolTip": "E:\\Work\\SVH\\progect_svh\\SVHDoc.Domain\\Entities\\Status.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T16:07:05.005Z"
             }

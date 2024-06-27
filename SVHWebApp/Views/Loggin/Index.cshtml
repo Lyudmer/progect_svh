@@ -4,25 +4,19 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Личные данные</h1>
+    <h1 class="display-4">Войти в аккаунт</h1>
 </div>
 <form method="post" asp-controller="Loggin" asp-action="Check">
    
-    <label asp-for="FullName"></label>
-    <input asp-for="FullName" />
-    <span asp-validation-for="FullName"></span>
-
-    <label asp-for="Loggin"></label>
+   
+    <label asp-for="Loggin">Логин</label>
     <input asp-for="Loggin" />
     <span asp-validation-for="Loggin"></span>
 
-    <label asp-for="Password"></label>
+    <label asp-for="Password">Пароль</label>
     <input asp-for="Password" />
     <span asp-validation-for="Password"></span>
-
-    <label asp-for="Email"></label>
-    <input asp-for="Email" />
-    <span asp-validation-for="Email"></span>
-    <input type="submit" value="Сохранить" />
+   
+    <input type="submit" value="Войти" />
 </form>
 

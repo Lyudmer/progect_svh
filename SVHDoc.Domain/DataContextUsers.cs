@@ -25,11 +25,9 @@ namespace SVHDB
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studotus;Database=SVHUsers");
+            optionsBuilder.UseNpgsql("Host=localhost;Username=postgres;Password=studadmin;Database=SVHUsers");
             base.OnConfiguring(optionsBuilder);
-            {
 
-            }
         }
     }
 }
